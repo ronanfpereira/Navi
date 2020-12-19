@@ -4,8 +4,8 @@ Created on Sat Dec 19 19:27:15 2020
 
 @author: Ronan Pereira
 
-This program generates a vector with a given range, print the position of the max value
-and calculates the average value of the entire vector
+This program generates an array with a given range, print the position of the max value
+and calculates the average value of the entire array
 """
 import math
 
